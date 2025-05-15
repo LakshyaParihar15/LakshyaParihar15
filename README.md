@@ -20,7 +20,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshyaparihar15/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshya-parihar/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](lakshyaparihar2003@gmail.com)
 
 ---
