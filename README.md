@@ -21,7 +21,7 @@
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lakshyaparihar15/)
-📧 Email: lakshyaparihar15@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](lakshyaparihar2003@gmail.com)
 
 ---
 
